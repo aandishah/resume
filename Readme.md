@@ -1,6 +1,10 @@
 # Aandishah 
 
-![img src="Headshot.jpg" alt="Aandishah Headshot"](images/headshot.jpg| width=250)
+<img src="images/headshot.jpg" width="250">
+
+<!-- Tried this method to resize but did not work -->
+<!--![img src="Headshot.jpg" alt="Aandishah Headshot" | width=250](images/headshot.jpg = =250x250) -->
+
 
 ## Education
 - [Columbia University](https://www.columbia.edu/), New York, NY 10027
