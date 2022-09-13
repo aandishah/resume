@@ -1,6 +1,6 @@
 # Aandishah 
 
-![img src="Headshot.jpg" alt="Aandishah Headshot" width="500" height="600"](images/headshot.jpg)
+![img src="Headshot.jpg" alt="Aandishah Headshot"](images/headshot.jpg| width=250)
 
 ## Education
 - [Columbia University](https://www.columbia.edu/), New York, NY 10027
@@ -13,7 +13,7 @@
  
  - [Ocean and Atmosphere Interactions](https://www.thegeographeronline.net/1-oceanndashatmosphere-interactions.html) 
  - [Remote Sensing Applications for Climate Change](https://climate-adapt.eea.europa.eu/en/metadata/adaptation-options/use-of-remote-sensing-in-climate-change-adaptation#:~:text=Remote%20sensing%20techniques%2C%20and%20specifically,affecting%20global%20warming%2C%20(iii))
- - [Impacts of Climate Change for Minority Communities and the Global South](https://www.aljazeera.com/opinions/2022/5/11/climate-change-is-devastating-the-global-south)
+ - [Impacts of Climate Change on Minority Communities and the Global South](https://www.aljazeera.com/opinions/2022/5/11/climate-change-is-devastating-the-global-south)
 
 
 
